@@ -120,7 +120,7 @@ server <- function(input, output) {
       ))
   })
   
-  # Add Draw Habitat map
+  # Add drawing function on Habitat map
   output$draw_map <- renderLeaflet({
     leaflet(df) %>% setView(lng = 114.109497, lat = 22.396428, zoom = 11) %>%
       addBootstrapDependency() %>%
