@@ -7,6 +7,7 @@ The *RStudio* is used as *R* IDE. The following R package are used:
   1. *Shiny*
   2. *Leaflet*
   3. *Leaflet.extras*
+  4. *DT*
   
 
 Author: Vincent Yifei GU
