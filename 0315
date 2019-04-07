@@ -36,8 +36,6 @@ ui <- navbarPage(title = "SWIMS marine biodiversity database", theme = shinythem
                             )
 )
 
-# This App is produced by Yifei GU at the University of Hong Kong.
-# As the author, i would like to acknowledge my lovely friend Nina. Thank you for your accompany and support! Shall we spend the rest of our life together?
 
 # Server
 server <- function(input, output) {
