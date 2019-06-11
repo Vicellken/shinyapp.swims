@@ -26,4 +26,3 @@ This website is still under modifying and more features will come out in the com
 
 Author: Vincent Yifei GU
 
-(my first project in GitHub, feel free to leave comments!)
