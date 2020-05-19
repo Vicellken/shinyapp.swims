@@ -21,8 +21,9 @@ This map also provides *cluster* option on the species records for better visual
 ![swims esri](https://user-images.githubusercontent.com/16004725/57995778-78476880-7af6-11e9-9ff0-dce2b2d93380.png)
 
 <br>
-This website is still under modifying and more features will come out in the coming month!
-<br><br><br>
+
+Published [here](https://zenodo.org/record/3473196)
+<br><br>
 
 Author: Vincent Yifei GU
 
