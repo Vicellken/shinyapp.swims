@@ -25,5 +25,5 @@ This map also provides *cluster* option on the species records for better visual
 Published [here](https://zenodo.org/record/3473196)
 <br><br>
 
-Author: Vincent Yifei GU
+
 
