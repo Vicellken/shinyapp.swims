@@ -1,3 +1,6 @@
+## Published version [here](https://zenodo.org/record/3473196)
+<br>
+
 # Marine GIS database in Hong Kong
 This project is created for the ENVM 8021 Project course.
 
